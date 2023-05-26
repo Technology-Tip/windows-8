@@ -116,4 +116,4 @@ we send a Decryption code.
 **This is Gautam Singh**
 
 
-**_Thank you for visiting this web and install windows 10_**
+**_Thank you for visiting this web and install windows 8_**
